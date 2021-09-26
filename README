@@ -1,0 +1,13 @@
+HexCalc version 1.0 readme.
+
+HexCalc is free software. For details see LICENSE.
+
+Copyright (C) 2003 Lukasz Czajka
+
+HexCalc is a hexadecimal calculator for Windows. It allows you to see
+the results of executing most of the x86 arithmetic instructions,
+including the state of the CPU flags. The program was written in
+assembler, so you may be sure that each operation you perform in the
+calculator corresponds to exactly one x86 instruction.
+
+
